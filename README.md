@@ -4,7 +4,7 @@ We need a basic API for converting Postman collections into OpenAPI 3.1 format, 
 ## Proposed Tooling
 
 - [Postman-to-openapi](https://joolfe.github.io/postman-to-openapi/)
-- [Postman2OpenAPI](https://github.com/kevinswiber/postman2openap)
+- [Postman2OpenAPI](https://github.com/kevinswiber/postman2openapi)
 
 ## Requirements
 
